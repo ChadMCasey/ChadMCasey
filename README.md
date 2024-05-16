@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
-- 📫 How to reach me **gbchadd@gmail.com**
+- 📫 How to reach me **chadcaseyswe@gmail.com**
 
 - ⚡ Fun fact **Im not sure what to put here.**
 
