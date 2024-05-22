@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chad! A passionate Software Engineer from Michigan</h1>
+<h1 align="left">Hi 👋, I'm Chad! A passionate Software Engineer from Michigan</h1>
 <h3 align="left">A brief overview of my journey towards software engineering</h3>
 <p>As a freshman in college i took an introductory programming course in Python titled, "Algorithmic Thinking And Programming," which sparked a deep passion in me for software engineering.
 Unfortunately, this was my second semester, and i didnt want to fall behind at university. Thus, i did not make the switch to Computer Science. None the less, i spent the next 4 years
