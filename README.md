@@ -4,7 +4,7 @@
 Unfortunately, i did not make the switch to Computer Science, as i did not want to fall behind in my degree program. None the less, i spent the next 4 years
 immersing myself in the field of software engineering, buying books, courses, watching tutorials, creating small projects and more.</p>
 
-<p>After graduating, i decided to get serious about my goals and enrolled in Triple10's comprehensive 700+ hour Full Stack Web Development bootcamp. Recently, i graduated from the program
+<p>After graduating, i escalated my efforts to enter the field of software engineering by enrolling in Triple10's comprehensive 700+ hour Full Stack Web Development bootcamp. Recently, i graduated from the program
 and am now in the process of preparing for a future as a software engineer! My passions include Software Engineering, Web Design & Drinking Tea!</p>
 
 <p>If you are reading this message i urge you to connect with me on linkedin! I am always interested in making new friends and expanding my circle :)</p>
