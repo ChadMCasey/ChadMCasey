@@ -9,6 +9,21 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 <p>If you are reading this message i urge you to connect with me on linkedin! I am always interested in making new friends and expanding my circle :)</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadmcasey" alt="chadmcasey" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadmcasey&show_icons=true&locale=en&layout=compact" alt="chadmcasey" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chadmcasey&show_icons=true&locale=en" alt="chadmcasey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chadmcasey&" alt="chadmcasey" /></p>
+
+
 
 - 🔭 I’m currently working on **building my portfolio website and refining my backend skills.**
 
