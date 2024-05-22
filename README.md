@@ -23,9 +23,6 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadmcasey" alt="chadmcasey" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadmcasey&show_icons=true&locale=en&layout=compact" alt="chadmcasey" /></p>
 
