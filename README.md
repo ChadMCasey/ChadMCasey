@@ -18,7 +18,7 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 - 📫 How to reach me **chadcaseyswe@gmail.com**
 
-- ⚡ Fun fact **Im not sure what to put here.**
+- ⚡ Fun fact **I was a data analyst prior to becoming a software engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
