@@ -10,7 +10,7 @@ and am now in the process of preparing for a future as a software engineer! My p
 <p>If you are reading this message i urge you to connect with me on linkedin! I am always interested in making new friends and expanding my circle :)</p>
 
 
-- 🔭 I’m currently working on [completing the Triple10 Full Stack Bootcamp!](https://tripleten.com/)
+- 🔭 I’m currently working on Building my portfolio website and refining my backend skills.
 
 - 🌱 I’m currently learning **React, Redux, Node, Express, MongoDB, JS, HTML5, CSS3**
 
