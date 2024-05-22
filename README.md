@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Chad</h1>
-<h3 align="center">A passionate Software Engineer from Michigan</h3>
+<h1 align="center">Hi 👋, I'm Chad!, a passionate Software Engineer from Michigan</h1>
+<h3 align="left">A brief overview of my journey towards software engineering</h3>
+<p>As a freshman in college i took an introductory programming course in Python titled, "Algorithmic Thinking And Programming," which sparked a deep passion in me for software engineering.
+Unfortunately, this was my second semester, and i didnt want to fall behind at university. Thus, i did not make the switch to Computer Science. None the less, i spent the next 4 years
+immersing myself in the field of software engineering, buying books, courses, watching tutorials, creating small projects and more.</p>
+
+<p>After graduating, i decided to get serious about my goals and enrolled in Triple10's comprehensive 700+ hour Full Stack Web Development bootcamp. Recently, i graduated from the program
+and am now in the process of preparing for a future as a software engineer! My passions include Software Engineering, Web Design & Drinking Tea!</p>
+
+<p>If you are reading this message i urge you to connect with me on linkedin! I am always interested in making new friends and expanding my circle :)</p>
+
 
 - 🔭 I’m currently working on [completing the Triple10 Full Stack Bootcamp!](https://tripleten.com/)
 
