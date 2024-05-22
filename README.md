@@ -19,7 +19,7 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 - ⚡ Fun fact **I was a Data Analyst prior to becoming a software engineer!**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
+<p align="left"> <img width="100%"  src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadmcasey" alt="chadmcasey" /></a> </p>
 
