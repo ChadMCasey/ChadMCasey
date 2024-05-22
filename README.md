@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Chad! A passionate Software Engineer from Michigan.</h1>
 <h3 align="left">Here is a brief overview of my journey towards software engineering</h3>
-<p>As a freshman in college i took an introductory programming course in Python titled, "Algorithmic Thinking And Programming," which sparked a deep passion in me for software engineering.
-Unfortunately, this was my second semester, and i didnt want to fall behind at university. Thus, i did not make the switch to Computer Science. None the less, i spent the next 4 years
+<p>An introductory programming course titled, "Algorithmic Thinking And Programming," sparked a deep passion in me for software engineering during my freshman year at university.
+Unfortunately, i did not make the switch to Computer Science, as i did not want to fall behind in my degree program. None the less, i spent the next 4 years
 immersing myself in the field of software engineering, buying books, courses, watching tutorials, creating small projects and more.</p>
 
 <p>After graduating, i decided to get serious about my goals and enrolled in Triple10's comprehensive 700+ hour Full Stack Web Development bootcamp. Recently, i graduated from the program
