@@ -9,6 +9,16 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 <p>If you are reading this message i urge you to connect with me on linkedin! I am always interested in making new friends and expanding my circle :)</p>
 
+- 🔭 I’m currently working on **building my portfolio website and refining my backend skills.**
+
+- 🌱 I’m currently learning **Redux, Node, Express, MongoDB, Framer Motion, Figma**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
+
+- 📫 How to reach me **chadcaseyswe@gmail.com**
+
+- ⚡ Fun fact **I was a Data Analyst prior to becoming a software engineer!**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadmcasey" alt="chadmcasey" /></a> </p>
@@ -23,17 +33,6 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chadmcasey&" alt="chadmcasey" /></p>
 
-
-
-- 🔭 I’m currently working on **building my portfolio website and refining my backend skills.**
-
-- 🌱 I’m currently learning **Redux, Node, Express, MongoDB, Framer Motion, Figma**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
-
-- 📫 How to reach me **chadcaseyswe@gmail.com**
-
-- ⚡ Fun fact **I was a Data Analyst prior to becoming a software engineer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
