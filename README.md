@@ -17,7 +17,7 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 - 📫 How to reach me **chadcaseyswe@gmail.com**
 
-- ⚡ Fun fact **I was a Data Analyst prior to becoming a software engineer!**
+- ⚡ Fun fact **I was a Data Analyst prior to becoming a software engineer**
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
 
