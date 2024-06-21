@@ -13,7 +13,7 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 - 🌱 I’m currently learning **Redux, Node, Express, MongoDB, Framer Motion, Figma**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
+- 👨‍💻 All of my projects are available @ [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
 - 📫 How to reach me **chadcaseyswe@gmail.com**
 
