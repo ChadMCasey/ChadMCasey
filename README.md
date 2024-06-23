@@ -15,7 +15,7 @@ and am now in the process of preparing for a future as a software engineer! My p
 
 - 👨‍💻 All of my projects are available @ [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
-- 📫 How to reach me **chadcaseyswe@gmail.com**
+- 📫 reach me @ **chadcaseyswe@gmail.com**
 
 - ⚡ Fun fact **I was a Data Analyst prior to becoming a software engineer**
 
