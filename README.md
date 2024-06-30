@@ -7,7 +7,7 @@ immersing myself in the field of software engineering, buying books, courses, wa
 <p>After graduating, i escalated my efforts to enter the field of software engineering by enrolling in Triple10's comprehensive 700+ hour Full Stack Web Development bootcamp. Recently, i graduated from the program
 and am now in the process of preparing for a future as a software engineer! My passions include Software Engineering, Web Design & Drinking Tea!</p>
 
-<p>If you are reading this message i urge you to connect with me on linkedin! I am always interested in making new friends and expanding my circle :)</p>
+<p>If you are reading this message i urge you to connect with me on linkedIn! I am always interested in making new friends and expanding my circle :)</p>
 
 - 🔭 I’m currently working on **building my portfolio website and refining my backend skills.**
 
