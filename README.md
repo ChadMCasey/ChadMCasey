@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **building my portfolio website and refining my backend skills.**
 
-- 🌱 I’m currently learning **Redux, Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
+- 🌱 I’m currently learning **Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
 
 - 👨‍💻 All of my projects are available @ [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
