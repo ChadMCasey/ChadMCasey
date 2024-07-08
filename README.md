@@ -1,6 +1,6 @@
 <h1 align="left">Hello, i'm Chad, a passionate Software Engineer from Michigan!</h1>
 
-- 🔭 I’m currently working on **building my portfolio website and refining my backend skills.**
+- 🔭 I’m currently working on **refining my backend skills.**
 
 - 🌱 I’m currently learning **Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
 
