@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
 
-- 👨‍💻 All of my projects are available @ [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
+- 👨‍💻 All of my projects are available at [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
 - reach me @ **chadcaseyswe@gmail.com**
 
