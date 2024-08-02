@@ -1,10 +1,8 @@
 <h1 align="left">Hello, i'm Chad, a passionate Software Engineer from Michigan!</h1>
 
-- 🔭 I’m currently working on **refining my backend skills.**
+- I’m currently learning **Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
+- All of my projects are available at [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
 - reach me at **chadcaseyswe@gmail.com**
 
