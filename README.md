@@ -4,7 +4,7 @@
 
 - All of my projects are available @ [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
-- reach me at **chadcaseyswe@gmail.com**
+- reach me @ **chadcaseyswe@gmail.com**
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
 
