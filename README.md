@@ -1,6 +1,6 @@
-<h1 align="left">Hello, i'm Chad, a passionate Software Engineer from Michigan!</h1>
+<h1 align="left">Hello, i'm Chad, a passionate Software Engineer from Arizona!</h1>
 
-- I’m currently learning **Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
+- I’m currently learning **things**
 
 - All of my projects are available @ [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
 
