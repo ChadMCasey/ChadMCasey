@@ -1,10 +1,6 @@
 <h1 align="left">Hello, i'm Chad, a passionate Software Engineer from Arizona!</h1>
 
-- I’m currently learning **things**
-
-- All of my projects are available @ [https://github.com/ChadMCasey](https://github.com/ChadMCasey)
-
-- reach me at **chadcaseyswe@gmail.com**
+- reach me at **chadcaseyswe@gmail.com** 
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
 
