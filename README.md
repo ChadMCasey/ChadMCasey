@@ -1,4 +1,4 @@
-<h1 align="left">Hello, i'm Chad, a passionate Software Engineer from Arizona!</h1>
+<h1 align="left">Hello, i'm Chad.</h1>
 
 - reach me at **chadcaseyswe@gmail.com** 
 
