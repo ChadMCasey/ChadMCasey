@@ -1,6 +1,5 @@
 <h1 align="left">Hello, I'm Chad.</h1>
 <h3 align="left">A full stack engineer and educator.</h3>
-[![My YouTube Channel](https://img.shields.io)](https://www.youtube.com)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
