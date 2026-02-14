@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Chad.</h1>
-<h3 align="left">A full Stack Engineer and Educator.</h3>
+<h3 align="left">A full Stack Engineer, CS Nerd, Computer Graphics Enthusiast and Educator.</h3>
 
 <p>Over the past 18 months, I have executed a strategic and rigorous pivot into the mathematical and computational foundations of Computer Science. My focus is centered on the intersection of Computer Graphics, Physics Simulation, and Animation Rendering Pipelines.
 
