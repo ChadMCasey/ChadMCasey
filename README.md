@@ -3,7 +3,7 @@
 
 <p>Over the past 18 months, I have executed a strategic and rigorous pivot into the mathematical and computational foundations of Computer Science. My focus is centered on the intersection of Computer Graphics, Physics Simulation, and Animation Rendering Pipelines.
 
-I am driven by the challenge of mastering this algorithmically rich field and am equally passionate about documenting the journey. Through my YouTube channel, @chadcaseySWE, I bridge the gap between complex theory and practical implementation for a community of thousands. I am currently preparing for graduate-level rigor and building the next generation of visual systems. Stay tuned as we embark on this learning journey, together!</p>
+I am driven by the challenge of mastering this algorithmically rich field and am equally passionate about documenting the journey. Through my YouTube channel, @chadcaseySWE, I bridge the gap between complex theory and practical implementation for a community of thousands. I am currently preparing for graduate-level rigor and building the next generation of visual systems. Stay tuned as we embark on this learning journey, together.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
