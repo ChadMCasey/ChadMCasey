@@ -1,6 +1,8 @@
 <h1 align="left">Hello, I'm Chad.</h1>
 <h3 align="left">A full Stack Engineer and Educator.</h3>
 
+<p>Over the course of the last 18 months i have made an intense, deliberate effort to develop my mathmatical and CS foundational knowledge base as i prepare for graduate level coursework, specifically related to Computer Graphics, Physics Simulation and Animation Rendering Pipelines. I am exicted to begin not only working on projects within this Mathmatically and Algorithmically rich field, but also educating thousands along the way via my YT channel @chadcaseySWE. Stay tuned for more!</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
 
