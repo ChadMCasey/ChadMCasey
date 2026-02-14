@@ -9,7 +9,7 @@
 <br>
 
 <p align="left">
-  Over the past 18 months, I have executed a strategic and rigorous pivot into the mathematical and computational foundations of Computer Science. My focus is centered on the intersection of <b>Computer Graphics, Physics Simulation, and Animation Rendering Pipelines.</b>
+  Over the past 18 months, I have pivoted into focusing on the intersection of <b>Computer Graphics, Physics Simulation, and Animation Rendering Pipelines.</b>
 </p>
 
 <p align="left">
