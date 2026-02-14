@@ -1,7 +1,9 @@
 <h1 align="left">Hello, I'm Chad.</h1>
 <h3 align="left">A full Stack Engineer and Educator.</h3>
 
-<p>Over the course of the last 18 months i have made an intense, deliberate effort to develop my mathmatical and CS foundational knowledge base as i prepare for graduate level coursework, specifically related to Computer Graphics, Physics Simulation and Animation Rendering Pipelines. I am exicted to begin not only working on projects within this Mathmatically and Algorithmically rich field, but also educating thousands along the way via my YT channel @chadcaseySWE. Stay tuned for more!</p>
+<p>Over the past 18 months, I have executed a strategic and rigorous pivot into the mathematical and computational foundations of Computer Science. My focus is centered on the intersection of Computer Graphics, Physics Simulation, and Animation Rendering Pipelines.
+
+I am driven by the challenge of mastering this algorithmically rich field and am equally passionate about documenting the journey. Through my YouTube channel, @chadcaseySWE, I bridge the gap between complex theory and practical implementation for a community of thousands. I am currently preparing for graduate-level rigor and building the next generation of visual systems. Stay tuned!</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" /> </p>
