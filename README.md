@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Chad.</h1>
-<h3 align="left">A Full Stack Engineer, CS Nerd, (Future) Computer Graphics Engineer, and Educator.</h3>
+<h3 align="left">A Full Stack Engineer, (Future) Computer Graphics Engineer, and Educator.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chadmcasey&label=Profile%20views&color=0e75b6&style=flat" alt="chadmcasey" />
