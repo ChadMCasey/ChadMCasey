@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  I am driven to explore this algorithmically rich field of computer science and am equally passionate about documenting the journey. Through my YouTube channel, <b>@chadcaseySWE</b>, I hope to bridge the gap between complex theory and practical implementation for the community. I am currently preparing for graduate-level courswork and building the next generation of visual systems :) Stay tuned as we embark on this learning journey!
+  I am driven to explore this algorithmically rich field of computer science and am equally passionate about documenting the journey. Through my YouTube channel, <b>@chadcaseySWE</b>, I hope to bridge the gap between complex theory and practical implementation for the community. I am currently preparing for graduate-level courswork and building the next generation of visual systems :) 
 </p>
 
 <br>
