@@ -9,7 +9,7 @@
 <br>
 
 <p align="left">
-  I like to code and i like computer graphics + math + physics + algos :)
+  computer graphics + math + physics + algos 
 </p>
 
 <br>
