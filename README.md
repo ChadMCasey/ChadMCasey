@@ -9,10 +9,6 @@
 <br>
 
 <p align="left">
-  Hello friends</b>
-</p>
-
-<p align="left">
   I like to code and i like computer graphics + math + physics + algos :)
 </p>
 
